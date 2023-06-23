@@ -1,4 +1,4 @@
-# Frontiers Computer Technology
+# Frontiers of Computer Technology
 ## Direct links to papers used for the survey report on Volumetric methods for 3D Brain tumor MRI segmentation.
 #### 1. Fully Convolutional Models
 
