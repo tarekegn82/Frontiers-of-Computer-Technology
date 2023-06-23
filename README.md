@@ -1,5 +1,5 @@
 # Frontiers Computer Technology
-## Direct Links of papers used for the survey report on volumetric methods for 3D Brain tumor MRI segmentation.
+## Direct links to papers used for the survey report on Volumetric methods for 3D Brain tumor MRI segmentation.
 #### 1. Fully Convolutional Models
 
 [Hough-CNN: Deep learning for segmentation of deep brain regions in MRI and ultrasound](https://www.sciencedirect.com/science/article/abs/pii/S1077314217300620).
@@ -24,6 +24,6 @@
 
 [CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation](https://ieeexplore.ieee.org/document/10056308/authors#authors)
 
-#### 2. CNN-Transformer Hybrid Models
+#### 2. Transformer based Models
 
 [A Robust Volumetric Transformer for Accurate 3D Tumor Segmentation](https://arxiv.org/pdf/2111.13300.pdf)
