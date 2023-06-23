@@ -1,4 +1,5 @@
-# Frontiers
+# Frontiers Computer Technology
+## Direct Links of papers used for the survey report on volumetric methods for 3D Brain tumor MRI segmentation.
 #### 1. Fully Convolutional Models
 
 [Hough-CNN: Deep learning for segmentation of deep brain regions in MRI and ultrasound](https://www.sciencedirect.com/science/article/abs/pii/S1077314217300620).
