@@ -24,6 +24,6 @@
 
 [CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation](https://ieeexplore.ieee.org/document/10056308/authors#authors)
 
-#### 2. Transformer based Models
+#### 3. Transformer based Models
 
 [A Robust Volumetric Transformer for Accurate 3D Tumor Segmentation](https://arxiv.org/pdf/2111.13300.pdf)
